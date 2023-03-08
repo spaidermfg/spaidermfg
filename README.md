@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I'm [Your Name], a [Your Profession] based in [Your Location]. 
 
 - 🔭 I’m currently working on [Your Current Project]
