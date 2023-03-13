@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm min</h1>
 <h3 align="center">A passionate frontend developer from Mob</h3>
 
-- 🔭 I’m currently working on **moon**
-
 - 🌱 I’m currently learning **rust**
-
-- 💬 Ask me about **email**
-
-- 📫 How to reach me **minfg67@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
