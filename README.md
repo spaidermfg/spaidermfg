@@ -4,7 +4,7 @@
 - 🧝🏻‍♀️ I’m currently learning **rust**
 
 
-<img width="1006" alt="截屏2023-03-15 15 02 44" src="https://user-images.githubusercontent.com/46310887/225237627-943802dc-eaf2-4bfb-b3f2-0d99c51c07fc.png" width="67" height="300">
+<img width="1006" alt="截屏2023-03-15 15 02 44" src="https://user-images.githubusercontent.com/46310887/225237627-943802dc-eaf2-4bfb-b3f2-0d99c51c07fc.png" width="67" height="400">
 
 ![spaidermfg's Github stats](https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true)
 
