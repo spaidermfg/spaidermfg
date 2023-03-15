@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **rust**
 
+![spaidermfg's Github stats](https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true)
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=min">
 
 <h3 align="left">Languages and Tools:</h3>
