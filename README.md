@@ -1,4 +1,4 @@
-<h1 align="center">Hi🏻‍🦦, I'm min</h1>
+<h1 align="center">Hi 🦦, I'm min</h1>
 <h3 align="center">A system developer</h3>
 
 - 🧝🏻‍♀️ I’m currently learning **rust & vim**
