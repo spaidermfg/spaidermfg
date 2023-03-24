@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🦦, I'm min</h1>
 <h3 align="center">A system developer</h3>
-
 - 🧝🏻‍♀️ I’m currently learning **rust & vim**
+
 ![spaidermfg's Github stats](https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=min">
 
