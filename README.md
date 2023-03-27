@@ -9,11 +9,11 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div><br>
   
 <div align="center">
-    <img width="800px" height="300px" src="https://metrics.lecoq.io/spaidermfg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
-  <div align="center" height="500px">
-    <img width="350px" src="https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true"><br>
-    <img width="350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=min"> 
+   <div align="center" height="500px">
+    <img width="500px" src="https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true"><br>
+    <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=min"> 
   </div> 
+    <img width="800px" height="300px" src="https://metrics.lecoq.io/spaidermfg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
 </div>  
 
 <br><h3 align="left">Languages and Tools:</h3>
