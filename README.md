@@ -9,10 +9,10 @@
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div><br>
   
 <div>
-    <img align="left" width="300px" src="https://metrics.lecoq.io/spaidermfg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
+    <img align="left" width="400px" height="400px" src="https://metrics.lecoq.io/spaidermfg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai">
   <div align="right">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true"><br>
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=min"> 
+    <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api?username=spaidermfg&show_icons=true"><br>
+    <img width="400px" height="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=min"> 
   </div> 
 </div>  
 
