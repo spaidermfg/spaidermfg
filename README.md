@@ -2,6 +2,7 @@
 <h3 align="center">A system developer</h3>
 
 - 🧝🏻‍♀️ I’m currently learning **rust & vim**
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 <br>
 
 ![Metrics](https://metrics.lecoq.io/spaidermfg?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
