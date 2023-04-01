@@ -3,7 +3,6 @@
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
 
 <h3 align="center">📟 A system developer</h3>
-
 <h3 align="center">🧝🏻‍♀️ I’m currently learning rust & vim<h3>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" /> </div>
