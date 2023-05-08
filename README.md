@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🦦, I'm min</h1>
+<h1 align="center">Hi 🦦, I'm min67</h1>
 
 <div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /></div>
 
